@@ -1,0 +1,4 @@
+Se crearon los archivos: 
+mc18.php y mc18-conferenciasPrimavera.php
+Se modificó el archivo: general-cargaanuncios.php
+general-cargasecciones.php
